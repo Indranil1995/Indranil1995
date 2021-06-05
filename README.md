@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Indranil1995
 - 👀 I’m interested in Data science rolls.
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me indranil.biswas786@gmail.com
 
 <!---
